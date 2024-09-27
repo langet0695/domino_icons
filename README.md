@@ -15,7 +15,7 @@ There are two core groupings of svgs.
 
 3. Full Sets
 
-   a.Found in `src/full_sets` this folder contains a series of folders that each contain a full set of dominos in a unique design.
+   a. Found in `src/full_sets` this folder contains a series of folders that each contain a full set of dominos in a unique design.
 
    b. The intention of these folders are to allow users to easily access designs that have been edited into a full set of standard dominos. This makes it easy for the designs to be exported to use in different systems with minimal added effort.
 
