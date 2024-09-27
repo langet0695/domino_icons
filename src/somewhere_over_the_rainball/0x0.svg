@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="gradient-4">
+      <stop offset="0" style="stop-color: rgba(225, 77, 77, 0.93);"/>
+      <stop offset="0.142" style="stop-color: rgba(216, 91, 31, 0.937);"/>
+      <stop offset="0.284" style="stop-color: rgba(192, 201, 56, 0.85);"/>
+      <stop offset="0.426" style="stop-color: rgba(63, 205, 33, 0.898);"/>
+      <stop offset="0.568" style="stop-color: rgba(40, 205, 239, 0.875);"/>
+      <stop offset="0.71" style="stop-color: rgba(108, 92, 240, 0.882);"/>
+      <stop offset="0.852" style="stop-color: rgba(177, 40, 239, 0.882);"/>
+      <stop offset="1" style="stop-color: rgb(239, 61, 217);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4-37" gradientUnits="userSpaceOnUse" x1="3300" y1="130" x2="3300" y2="380" gradientTransform="matrix(0.66667, 0, -0.000003, 0.666667, -1950.001465, 83.332497)" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-7" gradientUnits="userSpaceOnUse" x1="208.659" y1="11.249" x2="208.659" y2="211.249" gradientTransform="matrix(0.437388, -0.899274, 1.970034, 0.958181, -59.723213, 330.3237)" xlink:href="#gradient-4"/>
+  </defs>
+  <rect style="paint-order: fill; stroke-width: 4px; fill: url('#gradient-4-7'); stroke: rgba(0, 0, 0, 0.93); fill-opacity: 0.62;" width="400" height="200" rx="10" ry="10" y="150" x="50"/>
+  <line style="stroke-linecap: round; stroke-width: 4px; stroke: url('#gradient-4-37'); fill-opacity: 0.62;" x1="250.009" y1="170" x2="250.008" y2="336.667"/>
+</svg>

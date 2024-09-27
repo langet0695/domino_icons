@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1900" y1="100" x2="1900" y2="400" id="gradient-0" gradientTransform="matrix(-0.284803, 0.602769, -1.333333, -0.649093, 1124.460205, -735.625122)">
+      <stop offset="0" style="stop-color: rgba(217, 1, 158, 0.65);"/>
+      <stop offset="0.128" style="stop-color: rgb(192, 38, 185);"/>
+      <stop offset="0.318" style="stop-color: rgb(73, 96, 166);"/>
+      <stop offset="0.499" style="stop-color: rgb(14, 137, 116);"/>
+      <stop offset="0.681" style="stop-color: rgb(43, 127, 30);"/>
+      <stop offset="0.859" style="stop-color: rgb(134, 119, 2);"/>
+      <stop offset="1" style="stop-color: rgb(175, 78, 30);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <stop style="stop-color: rgba(217, 1, 158, 0.65);" offset="0"/>
+      <stop style="stop-color: rgb(192, 38, 185);" offset="0.128"/>
+      <stop style="stop-color: rgb(73, 96, 166);" offset="0.318"/>
+      <stop style="stop-color: rgb(14, 137, 116);" offset="0.499"/>
+      <stop style="stop-color: rgb(43, 127, 30);" offset="0.681"/>
+      <stop style="stop-color: rgb(134, 119, 2);" offset="0.859"/>
+      <stop style="stop-color: rgb(175, 78, 30);" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect style="paint-order: fill; stroke: rgb(0, 0, 0); stroke-width: 4px; fill: url('#gradient-0');" width="400" height="200" rx="10" ry="10" x="50" y="150"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 4px;" x1="250" y1="170" x2="250" y2="336.667"/>
+  <g>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="96.667" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="150" rx="20" ry="20" cy="250"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="203.333" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0); stroke-width: 3px;" cx="296.667" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="350" rx="20" ry="20" cy="250"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0); stroke-width: 3px;" cx="403.333" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="350" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0); stroke-width: 3px;" cx="296.667" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="296.667" rx="20" ry="20" cy="250"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="350" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0); stroke-width: 3px;" cx="403.333" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="403.333" rx="20" ry="20" cy="250"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="150" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="96.667" rx="20" ry="20" cy="303.333"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="96.667" rx="20" ry="20" cy="250"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="150" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="203.333" rx="20" ry="20" cy="196.667"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgba(217, 1, 158, 0);" cx="203.333" rx="20" ry="20" cy="250"/>
+  </g>
+</svg>
